@@ -1,0 +1,45 @@
+﻿  run.cpp
+D:\学校事务\数据结构与算法课程设计\北京地铁线路查询系统\function1.h(240,62): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\学校事务\数据结构与算法课程设计\北京地铁线路查询系统\function1.h(281,27): warning C4244: “=”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+D:\学校事务\数据结构与算法课程设计\北京地铁线路查询系统\function1.h(300,40): warning C4244: “=”: 从“_Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+D:\学校事务\数据结构与算法课程设计\北京地铁线路查询系统\function1.h(340,27): warning C4244: “=”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+D:\学校事务\数据结构与算法课程设计\北京地铁线路查询系统\function1.h(438,16): warning C4244: “=”: 从“_Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+D:\学校事务\数据结构与算法课程设计\北京地铁线路查询系统\function1.h(490,28): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+D:\学校事务\数据结构与算法课程设计\北京地铁线路查询系统\function1.h(575,3): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\学校事务\数据结构与算法课程设计\北京地铁线路查询系统\function1.h(588,36): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\学校事务\数据结构与算法课程设计\北京地铁线路查询系统\function1.h(601,43): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\学校事务\数据结构与算法课程设计\北京地铁线路查询系统\function1.h(616,37): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\学校事务\数据结构与算法课程设计\北京地铁线路查询系统\function1.h(629,44): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\学校事务\数据结构与算法课程设计\北京地铁线路查询系统\function1.h(650,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\学校事务\数据结构与算法课程设计\北京地铁线路查询系统\function1.h(661,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\学校事务\数据结构与算法课程设计\北京地铁线路查询系统\function1.h(672,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\学校事务\数据结构与算法课程设计\北京地铁线路查询系统\function1.h(706,3): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\学校事务\数据结构与算法课程设计\北京地铁线路查询系统\function1.h(719,36): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\学校事务\数据结构与算法课程设计\北京地铁线路查询系统\function1.h(732,43): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\学校事务\数据结构与算法课程设计\北京地铁线路查询系统\function1.h(747,37): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\学校事务\数据结构与算法课程设计\北京地铁线路查询系统\function1.h(760,44): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\学校事务\数据结构与算法课程设计\北京地铁线路查询系统\function1.h(781,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\学校事务\数据结构与算法课程设计\北京地铁线路查询系统\function1.h(792,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\学校事务\数据结构与算法课程设计\北京地铁线路查询系统\function1.h(803,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\学校事务\数据结构与算法课程设计\北京地铁线路查询系统\function1.h(835,3): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\学校事务\数据结构与算法课程设计\北京地铁线路查询系统\function1.h(848,36): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\学校事务\数据结构与算法课程设计\北京地铁线路查询系统\function1.h(861,44): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\学校事务\数据结构与算法课程设计\北京地铁线路查询系统\function1.h(876,37): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\学校事务\数据结构与算法课程设计\北京地铁线路查询系统\function1.h(889,45): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  北京地铁线路查询系统.vcxproj -> D:\学校事务\数据结构与算法课程设计\北京地铁线路查询系统\x64\Debug\北京地铁线路查询系统.exe
